@@ -38,7 +38,7 @@
 
         <br><br>
 
-        <input type="submit" onClick="cartsubmit()"value="Submit">
+        <input type="" onClick="cartsubmit()"value="Submit">
     </form>
 
 
